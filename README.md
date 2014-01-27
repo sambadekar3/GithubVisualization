@@ -1,6 +1,6 @@
 ## GithubVisualizer
 
-CS 7450: Visualization of a Github organization.
+CS 7450: Visualization of a GitHub's organizational data.
 
 ### Team
 
@@ -18,8 +18,10 @@ CS 7450: Visualization of a Github organization.
 - Moment.js
 - Colorbox
 
-### Link
+### Links
 [http://sourabhbajaj.com/projects/GithubVisualizer/](http://sourabhbajaj.com/projects/GithubVisualizer/)
+
+[http://samratambadekar.com/Projects/GithubVisualizer-master/](http://samratambadekar.com/Projects/GithubVisualizer-master/)
 
 ### Feedback
 
