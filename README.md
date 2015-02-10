@@ -4,9 +4,9 @@ CS 7450: Visualization of a GitHub's organizational data.
 
 ### Team
 
+- Samrat Ambadekar
 - Sourabh Bajaj
 - Anshul Bhatnagar
-- Samrat Ambadekar
 - Mudit Gupta
 
 ### Dependencies
@@ -19,8 +19,6 @@ CS 7450: Visualization of a GitHub's organizational data.
 - Colorbox
 
 ### Links
-[http://sourabhbajaj.com/GithubVisualizer/](http://sourabhbajaj.com/GithubVisualizer/)
-
 [http://samratambadekar.com/projects/GithubVisualizer/](http://samratambadekar.com/projects/GithubVisualizer/)
 
 ### Feedback
